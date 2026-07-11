@@ -44,6 +44,6 @@ Currently pursuing my BCA in Cyber Security and actively preparing for the **OSC
 
 ### 🤝 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/ayan-ali-system-security-architect](https://www.linkedin.com/in/ayan-ali-system-security-architect)
+*   💼 **LinkedIn:** [linkedin.com/in/ayan-ali-appsec-researcher](www.linkedin.com/in/ayan-ali-appsec-researcher)
 *   📧 **Email:** ayanali.sayed2006@gmail.com
 *   🌐 **GitHub:** [github.com/sudo-su-ayan-ali](https://github.com/sudo-su-ayan-ali)
