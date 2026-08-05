@@ -37,7 +37,7 @@ Currently pursuing my BCA in Cyber Security and actively preparing for the **OSC
 ### 🎓 Certifications
 
 *   **OSCP+** (Offensive Security Certified Professional Plus) — *In Progress* 📖
-*   **PortSwigger Web Security Academy** — All Labs Completed (Apprentice / Practitioner / Expert) 🏆
+*   **PortSwigger Web Security Academy** —  Labs Completed (BAC, SQLi, XSS, LFI, ETC) (Apprentice / Practitioner / Expert) 🏆
 *   **Deloitte Australia** — Cyber Security Job Simulation 💻
 
 ---
